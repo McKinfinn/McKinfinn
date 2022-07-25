@@ -3,7 +3,7 @@
 </p>
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">, I'm Vyacheslav</h1>
 <h3 align="center">Full-Stack developer from Russia <img src="https://vk.com/emoji/e/f09f87b7f09f87ba.png"></h3>
-<p align="center"><img src="https://komarev.com/ghpvc/?username=McKinfinn&style=flat-square&color=blue" alt=""></p>
+<!--<p align="center"><img src="https://komarev.com/ghpvc/?username=McKinfinn&style=flat-square&color=blue" alt=""></p>-->
 
 ### :woman_technologist: &nbsp;About Me:
 - 🔭 I’m currently working on **my framework**
